@@ -8,7 +8,7 @@
 #### Sample - CRUD
 
 ```javascript
-> Interface de "Coneão";
+> Interface de "Conexão";
 > Interface de "CRUD";
 ```
 
